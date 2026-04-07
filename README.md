@@ -30,8 +30,5 @@ SahajAI acts as a personal digital guide that:
 - Frontend: React
 - Voice: Whisper + gTTS
 
-## Team
-- Anshul Tyagi (Team Lead)
-- Saksham Agnihotri
-- Shubh Aggarwal
-- Neel Gupta
+## Author
+- Anshul Tyagi
