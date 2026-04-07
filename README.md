@@ -1,4 +1,4 @@
-# SahajAI – AI for Bharat | Team NewGenesis
+# SahajAI – AI for Bharat
 
 SahajAI is a voice-first, AI-powered assistant that helps Indian citizens discover government schemes, understand eligibility, manage document requirements, resolve missing documents through intelligent dependency mapping, and find the nearest service centers.
 
